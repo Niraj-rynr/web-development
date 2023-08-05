@@ -45,7 +45,7 @@ span.colour {
 .foot p {
     color: brown;
 }
-@media (max-width: 500px){
+@media (max-width: 720px){
     .project {
         display: block;
         margin-left: 0px;
@@ -55,5 +55,9 @@ span.colour {
     h1.Ab {
         justify-content: center;
         text-align: center;
+    }
+  li.nav {
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
