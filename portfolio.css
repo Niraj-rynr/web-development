@@ -1,0 +1,59 @@
+.c4 {
+  margin-left: 0px;
+}
+.nav-item {
+    border: 2px solid rgb(97, 91, 91);
+    border-radius: 15px;
+    font-weight: bold;
+    color: rgb(58, 40, 40);
+    cursor: pointer;    
+}
+.nav-item:hover {
+        background-color: yellowgreen;
+}
+span.color {
+    color: greenyellow;
+}
+button.btn {
+    background-color: greenyellow;
+    border-radius: 40%;
+}
+.rd > img {
+    border-radius: 50%;
+    border: 5px solid greenyellow;
+}
+div > .service {
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+.project {
+    display: flex;
+    gap: 10px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+  }
+.project1 {
+    margin-left: 120px;
+    margin-bottom: 50px;
+    margin-right: 120px;
+
+  }
+span.colour {
+    color: darkolivegreen;
+}
+.foot p {
+    color: brown;
+}
+@media (max-width: 500px){
+    .project {
+        display: block;
+        margin-left: 0px;
+        justify-content: left;
+        
+    }
+    h1.Ab {
+        justify-content: center;
+        text-align: center;
+    }
+}
