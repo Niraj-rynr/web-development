@@ -45,7 +45,7 @@ span.colour {
 .foot p {
     color: brown;
 }
-@media (max-width: 474px){
+@media (max-width: 700px){
     .project {
         display: block;
         margin-left: 0px;
